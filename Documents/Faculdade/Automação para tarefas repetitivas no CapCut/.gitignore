@@ -1,0 +1,19 @@
+# Vídeos
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Sistema operacional
+.DS_Store
+
+# VS Code
+.vscode/
